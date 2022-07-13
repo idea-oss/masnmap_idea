@@ -65,3 +65,6 @@ masscan + nmap 快速端口存活检测和服务识别。
 
 ### 使用
 python3 masnmap.py ip或者域名
+
+这里只是修改了一些bug和一些功能
+原工具地址https://github.com/starnightcyber/masnmap
